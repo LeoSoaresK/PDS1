@@ -1,0 +1,46 @@
+    robot->turnLeft();              //virar a esquerda
+    robot->moveN(8);                //andar
+    robot->turnRight();             //virar a direita
+    robot->moveN(6);                //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->turnRight();             //virar a direita
+    robot->moveN(3);                //andar
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->turnRight();             //virar a direita
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->move();                  //andar
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->moveN(2);                //andar
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->move();                  //andar
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->move();                  //andar
+    robot->pickBeeper();            //pegar beepers
+    robot->turnAround();            //virar para a outra direcao
+    robot->move();                  //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->pickBeepers();           //pegar beepers
+    robot->turnAround();            //virar para a outra direcao
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->turnRight();             //virar a direita
+    robot->moveN(3);                //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->move();                  //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->turnLeft();              //virar a esquerda
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->turnAroundCornerLeft();  //fazer curva fechada a esquerda
+    robot->moveN(4);                //andar
+    robot->pickBeepers();           //pegar beepers
+    robot->turnAround();            //virar para a outra direcao
+    robot->moveN(4);                //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->moveN(4);                //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->moveN(5);                //andar
+    robot->turnAroundCornerRight(); //fazer curva fechada a direita
+    robot->moveN(6);                //andar
+    robot->turnAround();            //virar para a outra direcao

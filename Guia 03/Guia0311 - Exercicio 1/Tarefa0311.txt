@@ -1,0 +1,34 @@
+    robot->moveN(2);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->move();       //andar
+    robot->pickBeeper(); //pegar beeper
+    robot->turnLeft();   //virar a esquerda
+    robot->moveN(2);     //andar
+    robot->turnRight();  //virar a direita
+    robot->moveN(3);     //andar
+    robot->pickBeeper(); //pegar beeper
+    robot->moveN(3);     //andar
+    robot->turnRight();  //virar a direita
+    robot->moveN(2);     //andar
+    robot->pickBeeper(); //pegar beeper
+    robot->moveN(2);     //andar
+    robot->turnRight();  //virar a direita
+    robot->moveN(6);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->moveN(2);     //andar
+    robot->putBeeper();  //colocar beeper
+    robot->moveN(2);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->moveN(3);     //andar
+    robot->putBeeper();  //colocar beeper
+    robot->moveN(3);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->moveN(2);     //andar
+    robot->putBeeper();  //colocar beeper
+    robot->moveN(2);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->moveN(7);     //andar
+    robot->turnRight();  //virar a direita
+    robot->moveN(4);     //andar
+    robot->turnLeft();   //virar a esquerda
+    robot->turnLeft();   //virar a esquerda

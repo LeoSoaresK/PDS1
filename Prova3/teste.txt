@@ -1,0 +1,4 @@
+123,rafael azevedo,4.1
+475,marcos castro,6
+234,julia formiga,4.5
+
